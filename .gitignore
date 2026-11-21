@@ -1,0 +1,15 @@
+﻿# Local editing previews are not part of the release
+media/preview_*.png
+media/review_*.png
+
+# Local and generated data
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+media/mockup_*.png
+media/scene_*.png
+media/*.mp4
+/dist/
